@@ -1,5 +1,5 @@
 header {
-    background-image: url(/Layer15.png);
+    background-image: url(/assets/img/Layer15.png);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -166,7 +166,7 @@ header {
 
 
 .feedbacks {
-    background-image: url(big-img-2.png);
+    background-image: url(/assets/img/big-img-2.png);
     background-size: cover;
     background-position: center;
 }
